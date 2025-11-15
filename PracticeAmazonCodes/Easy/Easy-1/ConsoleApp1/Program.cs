@@ -1,4 +1,11 @@
-﻿using System;
+﻿/**************************************************************
+Name: Pietro Borges Parri
+Date started: 14/11/2025 (DD/MM/YY)
+Code: Amazon Routing
+**************************************************************/
+
+using System;
+using System.Collections.Generic;
 
 public class Program
 {
@@ -28,17 +35,13 @@ public class Program
             }
             else if (word == 'R')
             {
-                if (dispatched.Count > 0)
-                {
+                if (dispatchedValid > 0)
                     dispatchedValid--;
-                }
             }
             else if (word == 'C')
             {
                 if (prepared > 0)
-                {
                     prepared--;
-                }
             }
         }
 

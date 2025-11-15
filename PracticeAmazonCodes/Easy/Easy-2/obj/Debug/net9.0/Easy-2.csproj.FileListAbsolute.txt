@@ -1,0 +1,15 @@
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Easy\Easy-2\bin\Debug\net9.0\Easy-2.exe
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Easy\Easy-2\bin\Debug\net9.0\Easy-2.deps.json
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Easy\Easy-2\bin\Debug\net9.0\Easy-2.runtimeconfig.json
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Easy\Easy-2\bin\Debug\net9.0\Easy-2.dll
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Easy\Easy-2\bin\Debug\net9.0\Easy-2.pdb
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Easy\Easy-2\obj\Debug\net9.0\Easy-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Easy\Easy-2\obj\Debug\net9.0\Easy-2.AssemblyInfoInputs.cache
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Easy\Easy-2\obj\Debug\net9.0\Easy-2.AssemblyInfo.cs
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Easy\Easy-2\obj\Debug\net9.0\Easy-2.csproj.CoreCompileInputs.cache
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Easy\Easy-2\obj\Debug\net9.0\Easy-2.sourcelink.json
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Easy\Easy-2\obj\Debug\net9.0\Easy-2.dll
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Easy\Easy-2\obj\Debug\net9.0\refint\Easy-2.dll
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Easy\Easy-2\obj\Debug\net9.0\Easy-2.pdb
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Easy\Easy-2\obj\Debug\net9.0\Easy-2.genruntimeconfig.cache
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Easy\Easy-2\obj\Debug\net9.0\ref\Easy-2.dll
