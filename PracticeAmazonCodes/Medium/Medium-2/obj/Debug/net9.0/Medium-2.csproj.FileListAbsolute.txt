@@ -1,0 +1,15 @@
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Medium\Medium-2\bin\Debug\net9.0\Medium-2.exe
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Medium\Medium-2\bin\Debug\net9.0\Medium-2.deps.json
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Medium\Medium-2\bin\Debug\net9.0\Medium-2.runtimeconfig.json
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Medium\Medium-2\bin\Debug\net9.0\Medium-2.dll
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Medium\Medium-2\bin\Debug\net9.0\Medium-2.pdb
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Medium\Medium-2\obj\Debug\net9.0\Medium-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Medium\Medium-2\obj\Debug\net9.0\Medium-2.AssemblyInfoInputs.cache
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Medium\Medium-2\obj\Debug\net9.0\Medium-2.AssemblyInfo.cs
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Medium\Medium-2\obj\Debug\net9.0\Medium-2.csproj.CoreCompileInputs.cache
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Medium\Medium-2\obj\Debug\net9.0\Medium-2.sourcelink.json
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Medium\Medium-2\obj\Debug\net9.0\Medium-2.dll
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Medium\Medium-2\obj\Debug\net9.0\refint\Medium-2.dll
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Medium\Medium-2\obj\Debug\net9.0\Medium-2.pdb
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Medium\Medium-2\obj\Debug\net9.0\Medium-2.genruntimeconfig.cache
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Medium\Medium-2\obj\Debug\net9.0\ref\Medium-2.dll
