@@ -1,0 +1,15 @@
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Hard\Hard-1\bin\Debug\net9.0\Hard-1.exe
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Hard\Hard-1\bin\Debug\net9.0\Hard-1.deps.json
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Hard\Hard-1\bin\Debug\net9.0\Hard-1.runtimeconfig.json
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Hard\Hard-1\bin\Debug\net9.0\Hard-1.dll
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Hard\Hard-1\bin\Debug\net9.0\Hard-1.pdb
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Hard\Hard-1\obj\Debug\net9.0\Hard-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Hard\Hard-1\obj\Debug\net9.0\Hard-1.AssemblyInfoInputs.cache
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Hard\Hard-1\obj\Debug\net9.0\Hard-1.AssemblyInfo.cs
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Hard\Hard-1\obj\Debug\net9.0\Hard-1.csproj.CoreCompileInputs.cache
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Hard\Hard-1\obj\Debug\net9.0\Hard-1.sourcelink.json
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Hard\Hard-1\obj\Debug\net9.0\Hard-1.dll
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Hard\Hard-1\obj\Debug\net9.0\refint\Hard-1.dll
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Hard\Hard-1\obj\Debug\net9.0\Hard-1.pdb
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Hard\Hard-1\obj\Debug\net9.0\Hard-1.genruntimeconfig.cache
+C:\Users\pietr\Desktop\Code-Challenges\PracticeAmazonCodes\Hard\Hard-1\obj\Debug\net9.0\ref\Hard-1.dll
